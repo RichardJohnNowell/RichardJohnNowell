@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RichardJohnNowell
-- 👀 I’m interested in music and cybersecurity
-- 🌱 I’m currently learning Diploma in Web Application Development
-- 💞️ I’m looking to collaborate on some
-- 📫 How to reach me please leave a GitHub message
+- 👋 Hi, I’m Richard though most of the people I know use Rick.
+- 👀 I’m interested in astronomy and citizen science.
+- 🌱 I’m currently studying a Diploma in Web Application Development.
+- 💞️ Collaborating with The Code Institute and City of Bristol College.
+- 📫 Please email me.
 
 <!---
 RichardJohnNowell/RichardJohnNowell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
