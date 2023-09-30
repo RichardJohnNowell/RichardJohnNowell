@@ -3,7 +3,7 @@
 - ✨ Extensive knowledge of music software, programming synthesisers and audio engineering.
 - 🔐 Open University course in Cyber Security spring 2022.
 - 🌱 I’m currently studying a Diploma in Web Application Development.
-- 💞️ Collaborating with The Code Institute and City of Bristol College.
+- 💞️ Collaborating with the City of Bristol College.
 - 📫 Please email me.
 
 <!---
