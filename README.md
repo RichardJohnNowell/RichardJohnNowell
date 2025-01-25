@@ -1,10 +1,11 @@
 - 👋 Hello, I’m Richard though most of the people I know use Rick.
-- 👀 I’m interested in astronomy, citizen science and web design.
-- ✨ Extensive knowledge of music software, programming synthesisers and audio engineering.
-- 🔐 Currently studying (2024) Level 3 Cyber Security Technician with the Skills Network.
-- 🔐 Open University course (2022) in Cyber Security - "Introduction to cyber security - stay safe online".
-- 🌱 I’m currently working on the websites 'No Worries' for a local sound system and 'Cyber Enforcers', a presentation for the Skills Network.
-- 📫 Please email me.
+- CompTIA Information Technology Fundamentals+ (Jan. 2025).
+- City & Guilds Introduction to Customer Service (level 1 Nov. 2024).
+- Cyber security technician (level 3 July 2024).
+- Diploma in Web Application Development (level 5 Sept. 2023).
+- Programming languages: HTML5, CSS3, Python3, Javascript ES6, SQL.
+- Microsoft and Libre Office.
+- Interested in astronomy, citizen science, web design and conservation of the California Condor.
 
 <!---
 RichardJohnNowell/RichardJohnNowell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
